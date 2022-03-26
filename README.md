@@ -15,4 +15,4 @@ This project was made for  form cadastro de pessoas.<br /><br/>
 To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-##### Coded with wanderson de farias 
+##### CODIFICADO  PELO WANDERSON DE FARIAS
